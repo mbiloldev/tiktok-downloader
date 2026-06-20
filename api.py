@@ -1,7 +1,7 @@
 import os
 import instaloader
 import requests
-rbbr
+
 
 def download_instagram_video(url):
     # Instaloader obyekti
