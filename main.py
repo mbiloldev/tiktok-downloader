@@ -5,7 +5,7 @@ from aiogram.types import InputFile
 from aiogram.utils import executor
 from api import download_instagram_video
 
-API_TOKEN = '7044287189:AAF9uXbbz6A3Pq_cG1iHQ6FB6J9DoxkrHVc'
+API_TOKEN = 'bot_token_hero'
 
 # Bot va dispatcher obyektlarini yaratish
 bot = Bot(token=API_TOKEN)
