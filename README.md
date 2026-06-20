@@ -5,6 +5,10 @@ Telegram bot for downloading TikTok videos without watermark. Built with **aiogr
 > 🇺🇿 O'zbekcha tavsif quyida (pastda) keltirilgan.
 
 ---
+# CREATOR DEV
+<div align="center">
+  <img src="./banner.svg" width="100%"/>
+</div>
 
 ## ✨ Features
 
