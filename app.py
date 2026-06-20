@@ -4,7 +4,7 @@ from aiogram import Bot, Dispatcher, types
 from aiogram.contrib.middlewares.logging import LoggingMiddleware
 from aiogram.utils import executor
 
-API_TOKEN = '7044287189:AAF9uXbbz6A3Pq_cG1iHQ6FB6J9DoxkrHVc'
+API_TOKEN = 'bot_token_hero'
 
 logging.basicConfig(level=logging.INFO)
 
